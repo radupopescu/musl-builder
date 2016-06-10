@@ -5,8 +5,7 @@
 This container can be used to build applications using the *musl* C library to perform a fully
 static linking. It supports C or C++ projects configured with CMake.
 
-This container is based on Alpine Linux. On top of the base *alpine* image it installs the the GCC
-compilers and CMake.
+This container is based on Alpine Linux. On top of the base image it installs the the GCC compilers and CMake.
 
 ## License and authorship
 
