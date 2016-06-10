@@ -14,5 +14,5 @@ The contributors are listed in AUTHORS. This project uses the MPL v2 license, se
 
 ## Issues
 
-To report an issue, use the [musl-builder issue tracker](https://github.com/radupopescu/must-builder/issues) at github.com.
+To report an issue, use the [musl-builder issue tracker](https://github.com/radupopescu/musl-builder/issues) at github.com.
 
