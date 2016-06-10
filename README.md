@@ -1,4 +1,4 @@
-# musl-builder - Container for fully static compilation of C/C++ application
+# musl-builder - Container for fully static compilation of C/C++ applications
 
 ## Overview
 
