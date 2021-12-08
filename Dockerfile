@@ -1,4 +1,4 @@
-FROM alpine:3.14
+FROM alpine:3.15
 
-RUN apk update && apk add --no-cache binutils cmake make libgcc musl-dev gcc g++
+RUN apk update && apk add --no-cache binutils cmake make libgcc musl-dev gcc g++ go
 

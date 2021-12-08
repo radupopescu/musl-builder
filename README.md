@@ -1,11 +1,9 @@
-# musl-builder - Container for fully static compilation of C/C++ applications
+# musl-builder - Container for fully static builds 
 
 ## Overview
 
-This container can be used to build applications using the *musl* C library to perform a fully
-static linking. It supports C or C++ projects configured with CMake.
-
-This container is based on Alpine Linux. On top of the base image it installs the the GCC compilers and CMake.
+This container can be used to build fully statically-linked binaries, using *musl* libc.
+The gcc, g++, CMake and GO packages are already installed.
 
 An example of usage can be found at: `https://github.com/radupopescu/musl_test`. Basically, mount the root of the project
 you want to compile in the container and run any build commands needed:
